@@ -11,3 +11,5 @@
 9. git checkout main
 10. git branch -d rama-heroes
 11. git remote add origin url repo + .git
+12. git push
+13. git commit -am
